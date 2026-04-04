@@ -24,3 +24,15 @@ Se trabajo con análisis en los nichos de ventas más relevantes para la empresa
 
 * Relación de busquedas con nivel de competencia<br>
 [![Captura-de-pantalla-2026-04-03-204056.png](https://i.postimg.cc/CM9yNVG9/Captura-de-pantalla-2026-04-03-204056.png)](https://postimg.cc/G9PSLVSj)
+
+---
+## 🧠 Key Insights
+✔ Se identificaron nichos con potencial de explotación  
+✔ Identidicación de relación entre las grandes cantidades de busquedas y el bajo nivel de competencia    
+✔ Recomendaciones comerciales incluidas
+
+---
+
+## 📈 Business Impact 
+✔ Permite generar procesos para campañas de marketing en las secciones más buscadas y con baja competenicia   
+✔ Mejora en crecimiento de ganancias generadas con Ads en nichos estretégicos
